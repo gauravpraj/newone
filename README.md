@@ -1,3 +1,3 @@
 # newone
 this is my second repository<br>
-author -  Gaurav prajapati
+author -  Gaurav prajapati (software engineer)
